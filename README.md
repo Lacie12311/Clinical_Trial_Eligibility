@@ -18,6 +18,9 @@
 🌟 for trial planning.
 
 # Speadsheet
-🌟 ## Dataset Used  
-- <a href="https://github.com/Lacie12311/Clinical_Trial_Eligibilty/blob/main/Clinical_Trials_Spreadsheet.xlsx">Clinical Trials Dataset</a>
+🌟   - <a href="https://github.com/Lacie12311/Clinical_Trial_Eligibilty/blob/main/Clinical_Trials_Spreadsheet.xlsx">Clinical Trials Dataset</a>
+
+# Visuals
+![Clinical_Trial_Grpahs](https://github.com/user-attachments/assets/99e4ff95-7928-4770-99ec-f2006c280c0e)
+
 
